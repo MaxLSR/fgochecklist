@@ -15,7 +15,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/bdTYD2w.png"
+                "imgpath": "https://i.imgur.com/bdTYD2w.png",
+                "in_na": true
             },
             {
                 "id": "5-1",
@@ -25,7 +26,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/VDQCbs1.png"
+                "imgpath": "https://i.imgur.com/VDQCbs1.png",
+                "in_na": true
             },
             {
                 "id": "5-2",
@@ -35,7 +37,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/i7lN19t.png"
+                "imgpath": "https://i.imgur.com/i7lN19t.png",
+                "in_na": true
             },
             {
                 "id": "5-3",
@@ -45,7 +48,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/z27AaK9.png"
+                "imgpath": "https://i.imgur.com/z27AaK9.png",
+                "in_na": true
             },
             {
                 "id": "5-4",
@@ -55,7 +59,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/m0P6UXh.png"
+                "imgpath": "https://i.imgur.com/m0P6UXh.png",
+                "in_na": true
             },
             {
                 "id": "5-5",
@@ -65,7 +70,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/jbzFWs9.png"
+                "imgpath": "https://i.imgur.com/jbzFWs9.png",
+                "in_na": true
             },
             {
                 "id": "5-6",
@@ -75,7 +81,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/IZONsfN.png"
+                "imgpath": "https://i.imgur.com/IZONsfN.png",
+                "in_na": true
             },
             {
                 "id": "5-7",
@@ -85,7 +92,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/o9U7kYZ.png"
+                "imgpath": "https://i.imgur.com/o9U7kYZ.png",
+                "in_na": true
             },
             {
                 "id": "5-8",
@@ -95,7 +103,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/rN2vx2r.png"
+                "imgpath": "https://i.imgur.com/rN2vx2r.png",
+                "in_na": true
             },
             {
                 "id": "5-9",
@@ -105,7 +114,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/nI8grLm.png"
+                "imgpath": "https://i.imgur.com/nI8grLm.png",
+                "in_na": true
             },
             {
                 "id": "5-A",
@@ -115,7 +125,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/t6G3tae.png"
+                "imgpath": "https://i.imgur.com/t6G3tae.png",
+                "in_na": true
             },
             {
                 "id": "5-B",
@@ -125,7 +136,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/8qkG3wM.png"
+                "imgpath": "https://i.imgur.com/8qkG3wM.png",
+                "in_na": true
             },
             {
                 "id": "5-C",
@@ -135,7 +147,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/VeVjKaE.png"
+                "imgpath": "https://i.imgur.com/VeVjKaE.png",
+                "in_na": true
             },
             {
                 "id": "5-D",
@@ -145,7 +158,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ShODTcZ.png"
+                "imgpath": "https://i.imgur.com/ShODTcZ.png",
+                "in_na": true
             },
             {
                 "id": "5-E",
@@ -155,7 +169,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/rz9yJH9.png"
+                "imgpath": "https://i.imgur.com/rz9yJH9.png",
+                "in_na": true
             },
             {
                 "id": "5-F",
@@ -165,7 +180,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/7v2pihQ.png"
+                "imgpath": "https://i.imgur.com/7v2pihQ.png",
+                "in_na": true
             },
             {
                 "id": "5-G",
@@ -175,7 +191,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/rdvdLXX.png"
+                "imgpath": "https://i.imgur.com/rdvdLXX.png",
+                "in_na": true
             },
             {
                 "id": "5-H",
@@ -185,7 +202,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ZJSD2OV.png"
+                "imgpath": "https://i.imgur.com/ZJSD2OV.png",
+                "in_na": true
             },
             {
                 "id": "5-I",
@@ -195,7 +213,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/xDT2YhG.png"
+                "imgpath": "https://i.imgur.com/xDT2YhG.png",
+                "in_na": true
             },
             {
                 "id": "5-J",
@@ -205,7 +224,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/kKavYXL.png"
+                "imgpath": "https://i.imgur.com/kKavYXL.png",
+                "in_na": true
             },
             {
                 "id": "5-K",
@@ -215,7 +235,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/5KYVUOi.png"
+                "imgpath": "https://i.imgur.com/5KYVUOi.png",
+                "in_na": true
             },
             {
                 "id": "5-L",
@@ -225,7 +246,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/M4AOMP0.png"
+                "imgpath": "https://i.imgur.com/M4AOMP0.png",
+                "in_na": true
             },
             {
                 "id": "5-M",
@@ -235,7 +257,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/9svYzO5.png"
+                "imgpath": "https://i.imgur.com/9svYzO5.png",
+                "in_na": true
             },
             {
                 "id": "5-N",
@@ -245,7 +268,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/xhfqHZc.png"
+                "imgpath": "https://i.imgur.com/xhfqHZc.png",
+                "in_na": true
             },
             {
                 "id": "5-O",
@@ -255,7 +279,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/GE0rz9Y.png"
+                "imgpath": "https://i.imgur.com/GE0rz9Y.png",
+                "in_na": true
             },
             {
                 "id": "5-P",
@@ -265,7 +290,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ToShCmI.png"
+                "imgpath": "https://i.imgur.com/ToShCmI.png",
+                "in_na": true
             },
             {
                 "id": "5-Q",
@@ -275,7 +301,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/BpD9TX5.png"
+                "imgpath": "https://i.imgur.com/BpD9TX5.png",
+                "in_na": true
             },
             {
                 "id": "5-R",
@@ -285,7 +312,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/DhUyHJ1.png"
+                "imgpath": "https://i.imgur.com/DhUyHJ1.png",
+                "in_na": true
             },
             {
                 "id": "5-S",
@@ -295,7 +323,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/zp8U0ju.png"
+                "imgpath": "https://i.imgur.com/zp8U0ju.png",
+                "in_na": true
             },
             {
                 "id": "5-T",
@@ -305,7 +334,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/0XVgtO1.png"
+                "imgpath": "https://i.imgur.com/0XVgtO1.png",
+                "in_na": true
             },
             {
                 "id": "5-U",
@@ -315,7 +345,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/AydH6Cv.png"
+                "imgpath": "https://i.imgur.com/AydH6Cv.png",
+                "in_na": true
             },
             {
                 "id": "5-V",
@@ -325,7 +356,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/VEG1b4Y.png"
+                "imgpath": "https://i.imgur.com/VEG1b4Y.png",
+                "in_na": true
             },
             {
                 "id": "5-W",
@@ -335,7 +367,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Ok95AKi.png"
+                "imgpath": "https://i.imgur.com/Ok95AKi.png",
+                "in_na": true
             },
             {
                 "id": "5-X",
@@ -345,7 +378,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/nKk0OLq.png"
+                "imgpath": "https://i.imgur.com/nKk0OLq.png",
+                "in_na": true
             },
             {
                 "id": "5-Y",
@@ -355,7 +389,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/R8tRpQT.png"
+                "imgpath": "https://i.imgur.com/R8tRpQT.png",
+                "in_na": true
             },
             {
                 "id": "5-Z",
@@ -365,7 +400,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/5dAsqfx.png"
+                "imgpath": "https://i.imgur.com/5dAsqfx.png",
+                "in_na": true
             },
             {
                 "id": "5-a",
@@ -375,7 +411,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/4UKEZDj.png"
+                "imgpath": "https://i.imgur.com/4UKEZDj.png",
+                "in_na": true
             },
             {
                 "id": "5-b",
@@ -385,7 +422,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/dfa5LOV.png"
+                "imgpath": "https://i.imgur.com/dfa5LOV.png",
+                "in_na": true
             },
             {
                 "id": "5-c",
@@ -395,7 +433,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/e1misJz.png"
+                "imgpath": "https://i.imgur.com/e1misJz.png",
+                "in_na": true
             },
             {
                 "id": "5-d",
@@ -405,7 +444,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/7uAVKnk.png"
+                "imgpath": "https://i.imgur.com/7uAVKnk.png",
+                "in_na": true
             },
             {
                 "id": "5-e",
@@ -415,7 +455,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/IfUaKLN.png"
+                "imgpath": "https://i.imgur.com/IfUaKLN.png",
+                "in_na": true
             },
             {
                 "id": "5-f",
@@ -425,7 +466,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/aLCrb5i.png"
+                "imgpath": "https://i.imgur.com/aLCrb5i.png",
+                "in_na": true
             },
             {
                 "id": "5-g",
@@ -435,7 +477,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/1itUwoZ.png"
+                "imgpath": "https://i.imgur.com/1itUwoZ.png",
+                "in_na": true
             },
             {
                 "id": "5-h",
@@ -445,7 +488,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/tYKdx8X.png"
+                "imgpath": "https://i.imgur.com/tYKdx8X.png",
+                "in_na": true
             },
             {
                 "id": "5-i",
@@ -455,7 +499,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/hi1oBeP.png"
+                "imgpath": "https://i.imgur.com/hi1oBeP.png",
+                "in_na": true
             },
             {
                 "id": "5-j",
@@ -465,7 +510,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/lkIns4W.png"
+                "imgpath": "https://i.imgur.com/lkIns4W.png",
+                "in_na": true
             },
             {
                 "id": "5-k",
@@ -475,7 +521,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Kf4PehT.png"
+                "imgpath": "https://i.imgur.com/Kf4PehT.png",
+                "in_na": true
             },
             {
                 "id": "5-l",
@@ -485,7 +532,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/nEtYNSN.png"
+                "imgpath": "https://i.imgur.com/nEtYNSN.png",
+                "in_na": true
             },
             {
                 "id": "5-m",
@@ -495,7 +543,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/GjvESk5.png"
+                "imgpath": "https://i.imgur.com/GjvESk5.png",
+                "in_na": true
             },
             {
                 "id": "5-n",
@@ -505,7 +554,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/nPEXEL1.png"
+                "imgpath": "https://i.imgur.com/nPEXEL1.png",
+                "in_na": true
             },
             {
                 "id": "5-o",
@@ -515,7 +565,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/V87yvoL.png"
+                "imgpath": "https://i.imgur.com/V87yvoL.png",
+                "in_na": true
             },
             {
                 "id": "5-p",
@@ -525,7 +576,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/u8q3stJ.png"
+                "imgpath": "https://i.imgur.com/u8q3stJ.png",
+                "in_na": true
             },
             {
                 "id": "5-q",
@@ -535,7 +587,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/oQ1V588.png"
+                "imgpath": "https://i.imgur.com/oQ1V588.png",
+                "in_na": true
             },
             {
                 "id": "5-r",
@@ -545,7 +598,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/EHZ86HQ.png"
+                "imgpath": "https://i.imgur.com/EHZ86HQ.png",
+                "in_na": true
             },
             {
                 "id": "5-s",
@@ -555,7 +609,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/GkbmeDY.png"
+                "imgpath": "https://i.imgur.com/GkbmeDY.png",
+                "in_na": true
             },
             {
                 "id": "5-t",
@@ -565,7 +620,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/hhYWOTZ.png"
+                "imgpath": "https://i.imgur.com/hhYWOTZ.png",
+                "in_na": true
             },
             {
                 "id": "5-u",
@@ -575,7 +631,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/axQkEyd.png"
+                "imgpath": "https://i.imgur.com/axQkEyd.png",
+                "in_na": true
             },
             {
                 "id": "5-v",
@@ -585,7 +642,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/IQ1AgQM.png"
+                "imgpath": "https://i.imgur.com/IQ1AgQM.png",
+                "in_na": true
             },
             {
                 "id": "5-w",
@@ -595,7 +653,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/lbzXP2O.png"
+                "imgpath": "https://i.imgur.com/lbzXP2O.png",
+                "in_na": true
             },
             {
                 "id": "5-x",
@@ -605,7 +664,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/GTV4UQ6.png"
+                "imgpath": "https://i.imgur.com/GTV4UQ6.png",
+                "in_na": true
             },
             {
                 "id": "5-y",
@@ -615,7 +675,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/TbJOAK3.png"
+                "imgpath": "https://i.imgur.com/TbJOAK3.png",
+                "in_na": true
             },
             {
                 "id": "5-z",
@@ -625,7 +686,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/3QUtElu.png"
+                "imgpath": "https://i.imgur.com/3QUtElu.png",
+                "in_na": true
             },
             {
                 "id": "5-01",
@@ -635,7 +697,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/qwGKsvo.png"
+                "imgpath": "https://i.imgur.com/qwGKsvo.png",
+                "in_na": true
             },
             {
                 "id": "5-02",
@@ -645,7 +708,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/21LBma1.png"
+                "imgpath": "https://i.imgur.com/21LBma1.png",
+                "in_na": true
             },
             {
                 "id": "5-03",
@@ -655,7 +719,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/9u2BT52.png"
+                "imgpath": "https://i.imgur.com/9u2BT52.png",
+                "in_na": true
             },
             {
                 "id": "5-04",
@@ -665,7 +730,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/idcfGg9.png"
+                "imgpath": "https://i.imgur.com/idcfGg9.png",
+                "in_na": true
             },
             {
                 "id": "5-05",
@@ -675,7 +741,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/gaoc3hK.png"
+                "imgpath": "https://i.imgur.com/gaoc3hK.png",
+                "in_na": true
             },
             {
                 "id": "5-06",
@@ -685,7 +752,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Nj04aB1.png"
+                "imgpath": "https://i.imgur.com/Nj04aB1.png",
+                "in_na": true
             },
             {
                 "id": "5-07",
@@ -695,7 +763,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/49EcdkF.png"
+                "imgpath": "https://i.imgur.com/49EcdkF.png",
+                "in_na": true
             },
             {
                 "id": "5-08",
@@ -705,7 +774,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/6pqLNNx.png"
+                "imgpath": "https://i.imgur.com/6pqLNNx.png",
+                "in_na": true
             },
             {
                 "id": "5-09",
@@ -715,7 +785,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/iUcbXSO.png"
+                "imgpath": "https://i.imgur.com/iUcbXSO.png",
+                "in_na": true
             },
             {
                 "id": "5-0A",
@@ -725,7 +796,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/cAAdZHF.png"
+                "imgpath": "https://i.imgur.com/cAAdZHF.png",
+                "in_na": true
             },
             {
                 "id": "5-0B",
@@ -735,7 +807,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/veNIm1P.png"
+                "imgpath": "https://i.imgur.com/veNIm1P.png",
+                "in_na": true
             },
             {
                 "id": "5-0C",
@@ -745,7 +818,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/PnhHqrW.png"
+                "imgpath": "https://i.imgur.com/PnhHqrW.png",
+                "in_na": true
             },
             {
                 "id": "5-0D",
@@ -755,7 +829,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/uaE8WFR.png"
+                "imgpath": "https://i.imgur.com/uaE8WFR.png",
+                "in_na": true
             },
             {
                 "id": "5-0E",
@@ -765,7 +840,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Wujff9Y.png"
+                "imgpath": "https://i.imgur.com/Wujff9Y.png",
+                "in_na": true
             },
             {
                 "id": "5-0F",
@@ -775,7 +851,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/fBWCcJh.png"
+                "imgpath": "https://i.imgur.com/fBWCcJh.png",
+                "in_na": true
             },
             {
                 "id": "5-0G",
@@ -785,7 +862,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/HTFOVOe.png"
+                "imgpath": "https://i.imgur.com/HTFOVOe.png",
+                "in_na": true
             },
             {
                 "id": "5-0H",
@@ -795,7 +873,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/6KAvals.png"
+                "imgpath": "https://i.imgur.com/6KAvals.png",
+                "in_na": true
             },
             {
                 "id": "5-0I",
@@ -805,7 +884,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/zmW2wBT.png"
+                "imgpath": "https://i.imgur.com/zmW2wBT.png",
+                "in_na": true
             },
             {
                 "id": "5-0J",
@@ -815,7 +895,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/0u1bVkJ.png"
+                "imgpath": "https://i.imgur.com/0u1bVkJ.png",
+                "in_na": true
             },
             {
                 "id": "5-0K",
@@ -825,7 +906,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/AaVrEvE.png"
+                "imgpath": "https://i.imgur.com/AaVrEvE.png",
+                "in_na": true
             },
             {
                 "id": "5-0L",
@@ -835,7 +917,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/TnI8OTo.png"
+                "imgpath": "https://i.imgur.com/TnI8OTo.png",
+                "in_na": true
             },
             {
                 "id": "5-0M",
@@ -845,7 +928,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/1b1DsD7.png"
+                "imgpath": "https://i.imgur.com/1b1DsD7.png",
+                "in_na": true
             },
             {
                 "id": "5-0N",
@@ -855,7 +939,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Th1W4Lo.png"
+                "imgpath": "https://i.imgur.com/Th1W4Lo.png",
+                "in_na": true
             },
             {
                 "id": "5-0O",
@@ -865,7 +950,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Gk3cYv0.png"
+                "imgpath": "https://i.imgur.com/Gk3cYv0.png",
+                "in_na": true
             },
             {
                 "id": "5-0P",
@@ -875,7 +961,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/giAO0ab.png"
+                "imgpath": "https://i.imgur.com/giAO0ab.png",
+                "in_na": true
             },
             {
                 "id": "5-0Q",
@@ -885,7 +972,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/STBS8DP.png"
+                "imgpath": "https://i.imgur.com/STBS8DP.png",
+                "in_na": true
             },
             {
                 "id": "5-0R",
@@ -895,7 +983,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/GMaVbRz.png"
+                "imgpath": "https://i.imgur.com/GMaVbRz.png",
+                "in_na": true
             },
             {
                 "id": "5-0S",
@@ -905,7 +994,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/u8bajyx.png"
+                "imgpath": "https://i.imgur.com/u8bajyx.png",
+                "in_na": true
             },
             {
                 "id": "5-0T",
@@ -915,7 +1005,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/DL75zxT.png"
+                "imgpath": "https://i.imgur.com/DL75zxT.png",
+                "in_na": true
             },
             {
                 "id": "5-0U",
@@ -925,7 +1016,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/k9v634N.png"
+                "imgpath": "https://i.imgur.com/k9v634N.png",
+                "in_na": true
             },
             {
                 "id": "5-0V",
@@ -935,7 +1027,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/2htHbs9.png"
+                "imgpath": "https://i.imgur.com/2htHbs9.png",
+                "in_na": true
             },
             {
                 "id": "5-0W",
@@ -945,7 +1038,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Z4w9GOG.png"
+                "imgpath": "https://i.imgur.com/Z4w9GOG.png",
+                "in_na": true
             },
             {
                 "id": "5-0X",
@@ -955,7 +1049,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/VBhKHsI.png"
+                "imgpath": "https://i.imgur.com/VBhKHsI.png",
+                "in_na": true
             },
             {
                 "id": "5-0Y",
@@ -965,7 +1060,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/9uwxBAS.png"
+                "imgpath": "https://i.imgur.com/9uwxBAS.png",
+                "in_na": true
             },
             {
                 "id": "5-0Z",
@@ -975,7 +1071,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/WMM1bCb.png"
+                "imgpath": "https://i.imgur.com/WMM1bCb.png",
+                "in_na": true
             },
             {
                 "id": "5-0a",
@@ -985,7 +1082,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/8ADA3N8.png"
+                "imgpath": "https://i.imgur.com/8ADA3N8.png",
+                "in_na": true
             },
             {
                 "id": "5-0b",
@@ -995,7 +1093,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/RWYZypm.png"
+                "imgpath": "https://i.imgur.com/RWYZypm.png",
+                "in_na": true
             },
             {
                 "id": "5-0c",
@@ -1005,7 +1104,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/f2V5sHh.png"
+                "imgpath": "https://i.imgur.com/f2V5sHh.png",
+                "in_na": true
             },
             {
                 "id": "5-0d",
@@ -1015,7 +1115,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/JzZrJSS.png"
+                "imgpath": "https://i.imgur.com/JzZrJSS.png",
+                "in_na": true
             },
             {
                 "id": "5-0e",
@@ -1025,7 +1126,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/WRSI3Oy.png"
+                "imgpath": "https://i.imgur.com/WRSI3Oy.png",
+                "in_na": true
             },
             {
                 "id": "5-0f",
@@ -1035,7 +1137,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/VXPYla8.png"
+                "imgpath": "https://i.imgur.com/VXPYla8.png",
+                "in_na": true
             },
             {
                 "id": "5-0g",
@@ -1045,7 +1148,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/CZdLmQa.png"
+                "imgpath": "https://i.imgur.com/CZdLmQa.png",
+                "in_na": true
             },
             {
                 "id": "5-0h",
@@ -1055,7 +1159,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/zcp0oub.png"
+                "imgpath": "https://i.imgur.com/zcp0oub.png",
+                "in_na": true
             },
             {
                 "id": "5-0i",
@@ -1065,7 +1170,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/npPDiq5.png"
+                "imgpath": "https://i.imgur.com/npPDiq5.png",
+                "in_na": true
             },
             {
                 "id": "5-0j",
@@ -1075,7 +1181,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/kXLiQjP.png"
+                "imgpath": "https://i.imgur.com/kXLiQjP.png",
+                "in_na": true
             },
             {
                 "id": "5-0k",
@@ -1085,7 +1192,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/WLFAuOw.png"
+                "imgpath": "https://i.imgur.com/WLFAuOw.png",
+                "in_na": true
             },
             {
                 "id": "5-0l",
@@ -1095,7 +1203,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/OfAkmex.png"
+                "imgpath": "https://i.imgur.com/OfAkmex.png",
+                "in_na": true
             },
             {
                 "id": "5-0m",
@@ -1105,7 +1214,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/EdZ8Mbu.png"
+                "imgpath": "https://i.imgur.com/EdZ8Mbu.png",
+                "in_na": true
             },
             {
                 "id": "5-0n",
@@ -1115,7 +1225,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/IgDFhAn.png"
+                "imgpath": "https://i.imgur.com/IgDFhAn.png",
+                "in_na": true
             },
             {
                 "id": "5-0o",
@@ -1125,7 +1236,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/F0hmREg.png"
+                "imgpath": "https://i.imgur.com/F0hmREg.png",
+                "in_na": true
             },
             {
                 "id": "5-0p",
@@ -1135,7 +1247,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Ogs77uz.png"
+                "imgpath": "https://i.imgur.com/Ogs77uz.png",
+                "in_na": true
             },
             {
                 "id": "5-0q",
@@ -1145,7 +1258,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/yDNW98y.png"
+                "imgpath": "https://i.imgur.com/yDNW98y.png",
+                "in_na": true
             },
             {
                 "id": "5-0r",
@@ -1155,7 +1269,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/F0t0n1a.png"
+                "imgpath": "https://i.imgur.com/F0t0n1a.png",
+                "in_na": true
             },
             {
                 "id": "5-0s",
@@ -1165,7 +1280,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/e3XLbRm.png"
+                "imgpath": "https://i.imgur.com/e3XLbRm.png",
+                "in_na": true
             },
             {
                 "id": "5-0t",
@@ -1175,7 +1291,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/PVRgkGA.png"
+                "imgpath": "https://i.imgur.com/PVRgkGA.png",
+                "in_na": true
             },
             {
                 "id": "5-0u",
@@ -1185,7 +1302,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/2wrvEZZ.png"
+                "imgpath": "https://i.imgur.com/2wrvEZZ.png",
+                "in_na": true
             },
             {
                 "id": "5-0v",
@@ -1195,7 +1313,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/WLAqgdO.png"
+                "imgpath": "https://i.imgur.com/WLAqgdO.png",
+                "in_na": true
             },
             {
                 "id": "5-0w",
@@ -1205,7 +1324,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/jCEDQC7.png"
+                "imgpath": "https://i.imgur.com/jCEDQC7.png",
+                "in_na": true
             },
             {
                 "id": "5-0x",
@@ -1215,7 +1335,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/uh2yR43.png"
+                "imgpath": "https://i.imgur.com/uh2yR43.png",
+                "in_na": true
             },
             {
                 "id": "5-0y",
@@ -1225,7 +1346,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/2Vqrpee.png"
+                "imgpath": "https://i.imgur.com/2Vqrpee.png",
+                "in_na": true
             },
             {
                 "id": "5-0z",
@@ -1235,7 +1357,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/UembZLC.png"
+                "imgpath": "https://i.imgur.com/UembZLC.png",
+                "in_na": true
             },
             {
                 "id": "5-10",
@@ -1245,7 +1368,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/OUdrlFJ.png"
+                "imgpath": "https://i.imgur.com/OUdrlFJ.png",
+                "in_na": true
             },
             {
                 "id": "5-11",
@@ -1255,7 +1379,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/j5QTlaD.png"
+                "imgpath": "https://i.imgur.com/j5QTlaD.png",
+                "in_na": true
             },
             {
                 "id": "5-12",
@@ -1265,7 +1390,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/EwcTeYn.png"
+                "imgpath": "https://i.imgur.com/EwcTeYn.png",
+                "in_na": true
             },
             {
                 "id": "5-13",
@@ -1275,7 +1401,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/K0u9wfo.png"
+                "imgpath": "https://i.imgur.com/K0u9wfo.png",
+                "in_na": true
             },
             {
                 "id": "5-14",
@@ -1285,7 +1412,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/jk0xQb8.png"
+                "imgpath": "https://i.imgur.com/jk0xQb8.png",
+                "in_na": true
             },
             {
                 "id": "5-15",
@@ -1295,7 +1423,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/CeWdiiy.png"
+                "imgpath": "https://i.imgur.com/CeWdiiy.png",
+                "in_na": true
             },
             {
                 "id": "5-16",
@@ -1305,7 +1434,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/4SG74o2.png"
+                "imgpath": "https://i.imgur.com/4SG74o2.png",
+                "in_na": true
             },
             {
                 "id": "5-18",
@@ -1315,7 +1445,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/4DOo1ud.png"
+                "imgpath": "https://i.imgur.com/4DOo1ud.png",
+                "in_na": true
             },
             {
                 "id": "5-19",
@@ -1325,7 +1456,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/B5I0A46.png"
+                "imgpath": "https://i.imgur.com/B5I0A46.png",
+                "in_na": false
             },
             {
                 "id": "5-20",
@@ -1335,7 +1467,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/JJUf5mL.png"
+                "imgpath": "https://i.imgur.com/JJUf5mL.png",
+                "in_na": false
             },
             {
                 "id": "5-21",
@@ -1345,7 +1478,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/n6Dy5K7.png"
+                "imgpath": "https://i.imgur.com/n6Dy5K7.png",
+                "in_na": false
             },
             {
                 "id": "5-22",
@@ -1355,7 +1489,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/noIMgHT.png"
+                "imgpath": "https://i.imgur.com/noIMgHT.png",
+                "in_na": false
             },
             {
                 "id": "5-23",
@@ -1365,7 +1500,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/4UpuHKx.png"
+                "imgpath": "https://i.imgur.com/4UpuHKx.png",
+                "in_na": false
             },
             {
                 "id": "5-24",
@@ -1375,7 +1511,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/lj22eqO.png"
+                "imgpath": "https://i.imgur.com/lj22eqO.png",
+                "in_na": false
             },
             {
                 "id": "5-25",
@@ -1385,7 +1522,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/5mVfOoZ.png"
+                "imgpath": "https://i.imgur.com/5mVfOoZ.png",
+                "in_na": false
             },
             {
                 "id": "5-26",
@@ -1395,7 +1533,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/uaatRw6.png"
+                "imgpath": "https://i.imgur.com/uaatRw6.png",
+                "in_na": false
             },
             {
                 "id": "5-27",
@@ -1405,7 +1544,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/w5SfZaW.png"
+                "imgpath": "https://i.imgur.com/w5SfZaW.png",
+                "in_na": false
             },
             {
                 "id": "5-28",
@@ -1415,7 +1555,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/DXuIfVk.png"
+                "imgpath": "https://i.imgur.com/DXuIfVk.png",
+                "in_na": false
             },
             {
                 "id": "5-29",
@@ -1425,7 +1566,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/QdUC7cB.png"
+                "imgpath": "https://i.imgur.com/QdUC7cB.png",
+                "in_na": false
             },
             {
                 "id": "5-30",
@@ -1435,7 +1577,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/OEvpVf2.png"
+                "imgpath": "https://i.imgur.com/OEvpVf2.png",
+                "in_na": false
             },
             {
                 "id": "5-31",
@@ -1445,7 +1588,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/sSWI9ek.png"
+                "imgpath": "https://i.imgur.com/sSWI9ek.png",
+                "in_na": false
             },
             {
                 "id": "5-32",
@@ -1455,7 +1599,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/x0xKDOK.png"
+                "imgpath": "https://i.imgur.com/x0xKDOK.png",
+                "in_na": false
             },
             {
                 "id": "5-33",
@@ -1465,7 +1610,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/UB3VWgg.png"
+                "imgpath": "https://i.imgur.com/UB3VWgg.png",
+                "in_na": false
             },
             {
                 "id": "5-34",
@@ -1475,7 +1621,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/D1DaD7e.png"
+                "imgpath": "https://i.imgur.com/D1DaD7e.png",
+                "in_na": false
             },
             {
                 "id": "5-35",
@@ -1485,7 +1632,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/SjZtqMb.png"
+                "imgpath": "https://i.imgur.com/SjZtqMb.png",
+                "in_na": false
             },
             {
                 "id": "5-36",
@@ -1495,7 +1643,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/cPw7wmR.png"
+                "imgpath": "https://i.imgur.com/cPw7wmR.png",
+                "in_na": false
             },
             {
                 "id": "5-37",
@@ -1505,7 +1654,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/W1BrJPI.png"
+                "imgpath": "https://i.imgur.com/W1BrJPI.png",
+                "in_na": false
             },
             {
                 "id": "5-37",
@@ -1515,7 +1665,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/iegnu4j.png"
+                "imgpath": "https://i.imgur.com/iegnu4j.png",
+                "in_na": false
             },
             {
                 "id": "5-38",
@@ -1525,7 +1676,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/G7lqvy6.png"
+                "imgpath": "https://i.imgur.com/G7lqvy6.png",
+                "in_na": false
             },
             {
                 "id": "5-39",
@@ -1535,7 +1687,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ERGHVPO.png"
+                "imgpath": "https://i.imgur.com/ERGHVPO.png",
+                "in_na": false
             },
             {
                 "id": "5-40",
@@ -1545,7 +1698,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/SBmJLtB.png"
+                "imgpath": "https://i.imgur.com/SBmJLtB.png",
+                "in_na": false
             },
             {
                 "id": "5-41",
@@ -1555,7 +1709,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/khUhsGb.png"
+                "imgpath": "https://i.imgur.com/khUhsGb.png",
+                "in_na": false
             },
             {
                 "id": "5-42",
@@ -1565,7 +1720,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Y88ikbq.png"
+                "imgpath": "https://i.imgur.com/Y88ikbq.png",
+                "in_na": false
             },
             {
                 "id": "5-43",
@@ -1575,7 +1731,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/8GkK7CI.png"
+                "imgpath": "https://i.imgur.com/8GkK7CI.png",
+                "in_na": false
             },
             {
                 "id": "5-44",
@@ -1585,7 +1742,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/2hAZV2v.png"
+                "imgpath": "https://i.imgur.com/2hAZV2v.png",
+                "in_na": false
             },
             {
                 "id": "5-45",
@@ -1595,7 +1753,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/AAQNnPt.png"
+                "imgpath": "https://i.imgur.com/AAQNnPt.png",
+                "in_na": false
             },
             {
                 "id": "5-46",
@@ -1605,7 +1764,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/zpcaFjb.png"
+                "imgpath": "https://i.imgur.com/zpcaFjb.png",
+                "in_na": false
             },
             {
                 "id": "5-47",
@@ -1615,7 +1775,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/vKU3Huu.png"
+                "imgpath": "https://i.imgur.com/vKU3Huu.png",
+                "in_na": false
             },
             {
                 "id": "5-48",
@@ -1625,7 +1786,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/HwReCUG.png"
+                "imgpath": "https://i.imgur.com/HwReCUG.png",
+                "in_na": false
             }
         ]
     },
@@ -1645,7 +1807,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/pNYZgBz.png"
+                "imgpath": "https://i.imgur.com/pNYZgBz.png",
+                "in_na": true
             },
             {
                 "id": "4-1",
@@ -1655,7 +1818,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/owPXnSd.png"
+                "imgpath": "https://i.imgur.com/owPXnSd.png",
+                "in_na": true
             },
             {
                 "id": "4-2",
@@ -1665,7 +1829,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ycUdS92.png"
+                "imgpath": "https://i.imgur.com/ycUdS92.png",
+                "in_na": true
             },
             {
                 "id": "4-3",
@@ -1675,7 +1840,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/jlcmIp5.png"
+                "imgpath": "https://i.imgur.com/jlcmIp5.png",
+                "in_na": true
             },
             {
                 "id": "4-4",
@@ -1685,7 +1851,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/bJFGMsX.png"
+                "imgpath": "https://i.imgur.com/bJFGMsX.png",
+                "in_na": true
             },
             {
                 "id": "4-5",
@@ -1695,7 +1862,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/oH2Lghq.png"
+                "imgpath": "https://i.imgur.com/oH2Lghq.png",
+                "in_na": true
             },
             {
                 "id": "4-6",
@@ -1705,7 +1873,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/KLcemvi.png"
+                "imgpath": "https://i.imgur.com/KLcemvi.png",
+                "in_na": true
             },
             {
                 "id": "4-7",
@@ -1715,7 +1884,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/sa7PKip.png"
+                "imgpath": "https://i.imgur.com/sa7PKip.png",
+                "in_na": true
             },
             {
                 "id": "4-8",
@@ -1725,7 +1895,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/rXkF34k.png"
+                "imgpath": "https://i.imgur.com/rXkF34k.png",
+                "in_na": true
             },
             {
                 "id": "4-9",
@@ -1735,7 +1906,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/XMeuYPd.png"
+                "imgpath": "https://i.imgur.com/XMeuYPd.png",
+                "in_na": true
             },
             {
                 "id": "4-A",
@@ -1745,7 +1917,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/uaPdq4A.png"
+                "imgpath": "https://i.imgur.com/uaPdq4A.png",
+                "in_na": true
             },
             {
                 "id": "4-B",
@@ -1755,7 +1928,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/wX1H9ce.png"
+                "imgpath": "https://i.imgur.com/wX1H9ce.png",
+                "in_na": true
             },
             {
                 "id": "4-C",
@@ -1765,7 +1939,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/BWH6f8C.png"
+                "imgpath": "https://i.imgur.com/BWH6f8C.png",
+                "in_na": true
             },
             {
                 "id": "4-D",
@@ -1775,7 +1950,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/P9q9SPF.png"
+                "imgpath": "https://i.imgur.com/P9q9SPF.png",
+                "in_na": true
             },
             {
                 "id": "4-E",
@@ -1785,7 +1961,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/tA1fFBa.png"
+                "imgpath": "https://i.imgur.com/tA1fFBa.png",
+                "in_na": true
             },
             {
                 "id": "4-F",
@@ -1795,7 +1972,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/YVeutxw.png"
+                "imgpath": "https://i.imgur.com/YVeutxw.png",
+                "in_na": true
             },
             {
                 "id": "4-G",
@@ -1805,7 +1983,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/X75pQ4A.png"
+                "imgpath": "https://i.imgur.com/X75pQ4A.png",
+                "in_na": true
             },
             {
                 "id": "4-H",
@@ -1815,7 +1994,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/x8VK5iK.png"
+                "imgpath": "https://i.imgur.com/x8VK5iK.png",
+                "in_na": true
             },
             {
                 "id": "4-I",
@@ -1825,7 +2005,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/mTerhYA.png"
+                "imgpath": "https://i.imgur.com/mTerhYA.png",
+                "in_na": true
             },
             {
                 "id": "4-J",
@@ -1835,7 +2016,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/f5rRAmE.png"
+                "imgpath": "https://i.imgur.com/f5rRAmE.png",
+                "in_na": true
             },
             {
                 "id": "4-K",
@@ -1845,7 +2027,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/x8R9XYm.png"
+                "imgpath": "https://i.imgur.com/x8R9XYm.png",
+                "in_na": true
             },
             {
                 "id": "4-L",
@@ -1855,7 +2038,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/rJWJQoE.png"
+                "imgpath": "https://i.imgur.com/rJWJQoE.png",
+                "in_na": true
             },
             {
                 "id": "4-M",
@@ -1865,7 +2049,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/O9pAhC4.png"
+                "imgpath": "https://i.imgur.com/O9pAhC4.png",
+                "in_na": true
             },
             {
                 "id": "4-N",
@@ -1875,7 +2060,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/HlK6IQq.png"
+                "imgpath": "https://i.imgur.com/HlK6IQq.png",
+                "in_na": true
             },
             {
                 "id": "4-O",
@@ -1885,7 +2071,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/oRk1eoL.png"
+                "imgpath": "https://i.imgur.com/oRk1eoL.png",
+                "in_na": true
             },
             {
                 "id": "4-P",
@@ -1895,7 +2082,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/cADN3Jt.png"
+                "imgpath": "https://i.imgur.com/cADN3Jt.png",
+                "in_na": true
             },
             {
                 "id": "4-Q",
@@ -1905,7 +2093,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/lf0ztRB.png"
+                "imgpath": "https://i.imgur.com/lf0ztRB.png",
+                "in_na": true
             },
             {
                 "id": "4-R",
@@ -1915,7 +2104,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ko8wDhu.png"
+                "imgpath": "https://i.imgur.com/ko8wDhu.png",
+                "in_na": true
             },
             {
                 "id": "4-S",
@@ -1925,7 +2115,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Hn6yrJm.png"
+                "imgpath": "https://i.imgur.com/Hn6yrJm.png",
+                "in_na": true
             },
             {
                 "id": "4-T",
@@ -1935,7 +2126,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/7pjUy3s.png"
+                "imgpath": "https://i.imgur.com/7pjUy3s.png",
+                "in_na": true
             },
             {
                 "id": "4-U",
@@ -1945,7 +2137,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/93i37QE.png"
+                "imgpath": "https://i.imgur.com/93i37QE.png",
+                "in_na": true
             },
             {
                 "id": "4-V",
@@ -1955,7 +2148,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/JhhVx9f.png"
+                "imgpath": "https://i.imgur.com/JhhVx9f.png",
+                "in_na": true
             },
             {
                 "id": "4-W",
@@ -1965,7 +2159,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/5JQwcU4.png"
+                "imgpath": "https://i.imgur.com/5JQwcU4.png",
+                "in_na": true
             },
             {
                 "id": "4-X",
@@ -1975,7 +2170,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/POc8Lya.png"
+                "imgpath": "https://i.imgur.com/POc8Lya.png",
+                "in_na": true
             },
             {
                 "id": "4-Y",
@@ -1985,7 +2181,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/UfkJpPX.png"
+                "imgpath": "https://i.imgur.com/UfkJpPX.png",
+                "in_na": true
             },
             {
                 "id": "4-Z",
@@ -1995,7 +2192,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/arSlB1n.png"
+                "imgpath": "https://i.imgur.com/arSlB1n.png",
+                "in_na": true
             },
             {
                 "id": "4-a",
@@ -2005,7 +2203,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/X2SztKm.png"
+                "imgpath": "https://i.imgur.com/X2SztKm.png",
+                "in_na": true
             },
             {
                 "id": "4-b",
@@ -2015,7 +2214,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/i4vX0yK.png"
+                "imgpath": "https://i.imgur.com/i4vX0yK.png",
+                "in_na": true
             },
             {
                 "id": "4-c",
@@ -2025,7 +2225,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/j6pPjfm.png"
+                "imgpath": "https://i.imgur.com/j6pPjfm.png",
+                "in_na": true
             },
             {
                 "id": "4-d",
@@ -2035,7 +2236,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/JBMiHGg.png"
+                "imgpath": "https://i.imgur.com/JBMiHGg.png",
+                "in_na": true
             },
             {
                 "id": "4-e",
@@ -2045,7 +2247,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/vC3Wv9d.png"
+                "imgpath": "https://i.imgur.com/vC3Wv9d.png",
+                "in_na": true
             },
             {
                 "id": "4-f",
@@ -2055,7 +2258,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/xfScowO.png"
+                "imgpath": "https://i.imgur.com/xfScowO.png",
+                "in_na": true
             },
             {
                 "id": "4-g",
@@ -2065,7 +2269,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/FrYitjn.png"
+                "imgpath": "https://i.imgur.com/FrYitjn.png",
+                "in_na": true
             },
             {
                 "id": "4-h",
@@ -2075,7 +2280,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/qQsMU0w.png"
+                "imgpath": "https://i.imgur.com/qQsMU0w.png",
+                "in_na": true
             },
             {
                 "id": "4-i",
@@ -2085,7 +2291,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/V2iZpW7.png"
+                "imgpath": "https://i.imgur.com/V2iZpW7.png",
+                "in_na": true
             },
             {
                 "id": "4-j",
@@ -2095,7 +2302,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/dVwx4iT.png"
+                "imgpath": "https://i.imgur.com/dVwx4iT.png",
+                "in_na": true
             },
             {
                 "id": "4-k",
@@ -2105,7 +2313,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/cYj5JZG.png"
+                "imgpath": "https://i.imgur.com/cYj5JZG.png",
+                "in_na": true
             },
             {
                 "id": "4-l",
@@ -2115,7 +2324,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/hex4iVa.png"
+                "imgpath": "https://i.imgur.com/hex4iVa.png",
+                "in_na": true
             },
             {
                 "id": "4-m",
@@ -2125,7 +2335,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/1mXrBw5.png"
+                "imgpath": "https://i.imgur.com/1mXrBw5.png",
+                "in_na": true
             },
             {
                 "id": "4-n",
@@ -2135,7 +2346,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/YsVHRjC.png"
+                "imgpath": "https://i.imgur.com/YsVHRjC.png",
+                "in_na": true
             },
             {
                 "id": "4-o",
@@ -2145,7 +2357,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/LmdOc4L.png"
+                "imgpath": "https://i.imgur.com/LmdOc4L.png",
+                "in_na": true
             },
             {
                 "id": "4-p",
@@ -2155,7 +2368,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/VZfZJcJ.png"
+                "imgpath": "https://i.imgur.com/VZfZJcJ.png",
+                "in_na": true
             },
             {
                 "id": "4-q",
@@ -2165,7 +2379,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/qBjrk4k.png"
+                "imgpath": "https://i.imgur.com/qBjrk4k.png",
+                "in_na": true
             },
             {
                 "id": "4-r",
@@ -2175,7 +2390,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Z14fJdi.png"
+                "imgpath": "https://i.imgur.com/Z14fJdi.png",
+                "in_na": true
             },
             {
                 "id": "4-s",
@@ -2185,7 +2401,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/0Zfp3Ym.png"
+                "imgpath": "https://i.imgur.com/0Zfp3Ym.png",
+                "in_na": true
             },
             {
                 "id": "4-t",
@@ -2195,7 +2412,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/zur21da.png"
+                "imgpath": "https://i.imgur.com/zur21da.png",
+                "in_na": true
             },
             {
                 "id": "4-u",
@@ -2205,7 +2423,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/k2FBAGi.png"
+                "imgpath": "https://i.imgur.com/k2FBAGi.png",
+                "in_na": true
             },
             {
                 "id": "4-v",
@@ -2215,7 +2434,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/RRv4XL5.png"
+                "imgpath": "https://i.imgur.com/RRv4XL5.png",
+                "in_na": true
             },
             {
                 "id": "4-w",
@@ -2225,7 +2445,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/KHoO7Sl.png"
+                "imgpath": "https://i.imgur.com/KHoO7Sl.png",
+                "in_na": true
             },
             {
                 "id": "4-x",
@@ -2235,7 +2456,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/SPMGMF8.png"
+                "imgpath": "https://i.imgur.com/SPMGMF8.png",
+                "in_na": true
             },
             {
                 "id": "4-y",
@@ -2245,7 +2467,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/RJhCpz3.png"
+                "imgpath": "https://i.imgur.com/RJhCpz3.png",
+                "in_na": true
             },
             {
                 "id": "4-z",
@@ -2255,7 +2478,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/39wRmTP.png"
+                "imgpath": "https://i.imgur.com/39wRmTP.png",
+                "in_na": true
             },
             {
                 "id": "4-01",
@@ -2265,7 +2489,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/CR1MZTJ.png"
+                "imgpath": "https://i.imgur.com/CR1MZTJ.png",
+                "in_na": true
             },
             {
                 "id": "4-02",
@@ -2275,7 +2500,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/M8JssGy.png"
+                "imgpath": "https://i.imgur.com/M8JssGy.png",
+                "in_na": true
             },
             {
                 "id": "4-03",
@@ -2285,7 +2511,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/oH614nX.png"
+                "imgpath": "https://i.imgur.com/oH614nX.png",
+                "in_na": true
             },
             {
                 "id": "4-04",
@@ -2295,7 +2522,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/OydihdE.png"
+                "imgpath": "https://i.imgur.com/OydihdE.png",
+                "in_na": true
             },
             {
                 "id": "4-05",
@@ -2305,7 +2533,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/I4TMbgM.png"
+                "imgpath": "https://i.imgur.com/I4TMbgM.png",
+                "in_na": true
             },
             {
                 "id": "4-06",
@@ -2315,7 +2544,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/MOyQHaX.png"
+                "imgpath": "https://i.imgur.com/MOyQHaX.png",
+                "in_na": true
             },
             {
                 "id": "4-07",
@@ -2325,7 +2555,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/pbwtVrc.png"
+                "imgpath": "https://i.imgur.com/pbwtVrc.png",
+                "in_na": true
             },
             {
                 "id": "4-08",
@@ -2335,7 +2566,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ZcWKbOu.png"
+                "imgpath": "https://i.imgur.com/ZcWKbOu.png",
+                "in_na": true
             },
             {
                 "id": "4-09",
@@ -2345,7 +2577,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/KSIIKiW.png"
+                "imgpath": "https://i.imgur.com/KSIIKiW.png",
+                "in_na": true
             },
             {
                 "id": "4-0A",
@@ -2355,7 +2588,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/TohyCJ6.png"
+                "imgpath": "https://i.imgur.com/TohyCJ6.png",
+                "in_na": true
             },
             {
                 "id": "4-0B",
@@ -2365,7 +2599,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/7pxfN2Q.png"
+                "imgpath": "https://i.imgur.com/7pxfN2Q.png",
+                "in_na": true
             },
             {
                 "id": "4-0C",
@@ -2375,7 +2610,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ZrYD1ub.png"
+                "imgpath": "https://i.imgur.com/ZrYD1ub.png",
+                "in_na": true
             },
             {
                 "id": "4-0D",
@@ -2385,7 +2621,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/JGKBpOq.png"
+                "imgpath": "https://i.imgur.com/JGKBpOq.png",
+                "in_na": true
             },
             {
                 "id": "4-0E",
@@ -2395,7 +2632,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/BfMlApS.png"
+                "imgpath": "https://i.imgur.com/BfMlApS.png",
+                "in_na": true
             },
             {
                 "id": "4-0F",
@@ -2405,7 +2643,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/FXchwcz.png"
+                "imgpath": "https://i.imgur.com/FXchwcz.png",
+                "in_na": true
             },
             {
                 "id": "4-0G",
@@ -2415,7 +2654,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/HYegZwx.png"
+                "imgpath": "https://i.imgur.com/HYegZwx.png",
+                "in_na": true
             },
             {
                 "id": "4-0H",
@@ -2425,7 +2665,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/FbAEinn.png"
+                "imgpath": "https://i.imgur.com/FbAEinn.png",
+                "in_na": true
             },
             {
                 "id": "4-0I",
@@ -2435,7 +2676,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/KXCpFXV.png"
+                "imgpath": "https://i.imgur.com/KXCpFXV.png",
+                "in_na": true
             },
             {
                 "id": "4-0J",
@@ -2445,7 +2687,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/c7AX4an.png"
+                "imgpath": "https://i.imgur.com/c7AX4an.png",
+                "in_na": true
             },
             {
                 "id": "4-0K",
@@ -2455,7 +2698,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/r1ztH0F.png"
+                "imgpath": "https://i.imgur.com/r1ztH0F.png",
+                "in_na": true
             },
             {
                 "id": "4-0L",
@@ -2465,7 +2709,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/gffxNZA.png"
+                "imgpath": "https://i.imgur.com/gffxNZA.png",
+                "in_na": true
             },
             {
                 "id": "4-0M",
@@ -2475,7 +2720,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ZYxBrE9.png"
+                "imgpath": "https://i.imgur.com/ZYxBrE9.png",
+                "in_na": true
             },
             {
                 "id": "4-0N",
@@ -2485,7 +2731,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/HWN4xRV.png"
+                "imgpath": "https://i.imgur.com/HWN4xRV.png",
+                "in_na": true
             },
             {
                 "id": "4-0O",
@@ -2495,7 +2742,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/HhrEKCf.png"
+                "imgpath": "https://i.imgur.com/HhrEKCf.png",
+                "in_na": true
             },
             {
                 "id": "4-0P",
@@ -2505,7 +2753,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/WWyi70Q.png"
+                "imgpath": "https://i.imgur.com/WWyi70Q.png",
+                "in_na": true
             },
             {
                 "id": "4-0Q",
@@ -2515,7 +2764,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/MGB3fB9.png"
+                "imgpath": "https://i.imgur.com/MGB3fB9.png",
+                "in_na": true
             },
             {
                 "id": "4-0R",
@@ -2525,7 +2775,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/qECPI0s.png"
+                "imgpath": "https://i.imgur.com/qECPI0s.png",
+                "in_na": true
             },
             {
                 "id": "4-0S",
@@ -2535,7 +2786,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/kexSlFh.png"
+                "imgpath": "https://i.imgur.com/kexSlFh.png",
+                "in_na": true
             },
             {
                 "id": "4-0T",
@@ -2545,7 +2797,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/RbSai5b.png"
+                "imgpath": "https://i.imgur.com/RbSai5b.png",
+                "in_na": true
             },
             {
                 "id": "4-0U",
@@ -2555,7 +2808,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/nA2YHAY.png"
+                "imgpath": "https://i.imgur.com/nA2YHAY.png",
+                "in_na": true
             },
             {
                 "id": "4-0V",
@@ -2565,7 +2819,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/gxqYILw.png"
+                "imgpath": "https://i.imgur.com/gxqYILw.png",
+                "in_na": true
             },
             {
                 "id": "4-0W",
@@ -2575,7 +2830,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/UkpWtYo.png"
+                "imgpath": "https://i.imgur.com/UkpWtYo.png",
+                "in_na": true
             },
             {
                 "id": "4-0X",
@@ -2585,7 +2841,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/VQrNQwe.png"
+                "imgpath": "https://i.imgur.com/VQrNQwe.png",
+                "in_na": true
             },
             {
                 "id": "4-0Y",
@@ -2595,7 +2852,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/AWwJB8j.png"
+                "imgpath": "https://i.imgur.com/AWwJB8j.png",
+                "in_na": true
             },
             {
                 "id": "4-0a",
@@ -2605,7 +2863,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/1lMj1p5.png"
+                "imgpath": "https://i.imgur.com/1lMj1p5.png",
+                "in_na": true
             },
             {
                 "id": "4-0Z",
@@ -2615,7 +2874,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/HGxUIN0.png"
+                "imgpath": "https://i.imgur.com/HGxUIN0.png",
+                "in_na": true
             },
             {
                 "id": "4-0b",
@@ -2625,7 +2885,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Y0OynEU.png"
+                "imgpath": "https://i.imgur.com/Y0OynEU.png",
+                "in_na": true
             },
             {
                 "id": "4-0c",
@@ -2635,7 +2896,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/cMR7gNR.png"
+                "imgpath": "https://i.imgur.com/cMR7gNR.png",
+                "in_na": true
             },
             {
                 "id": "4-0d",
@@ -2645,7 +2907,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/qeptThQ.png"
+                "imgpath": "https://i.imgur.com/qeptThQ.png",
+                "in_na": true
             },
             {
                 "id": "4-0e",
@@ -2655,7 +2918,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/DzXTQrn.png"
+                "imgpath": "https://i.imgur.com/DzXTQrn.png",
+                "in_na": true
             },
             {
                 "id": "4-0f",
@@ -2665,7 +2929,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/M3DesaG.png"
+                "imgpath": "https://i.imgur.com/M3DesaG.png",
+                "in_na": true
             },
             {
                 "id": "4-0g",
@@ -2675,7 +2940,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/o0fNTHH.png"
+                "imgpath": "https://i.imgur.com/o0fNTHH.png",
+                "in_na": true
             },
             {
                 "id": "4-0h",
@@ -2685,7 +2951,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ha9fB6a.png"
+                "imgpath": "https://i.imgur.com/ha9fB6a.png",
+                "in_na": true
             },
             {
                 "id": "4-0i",
@@ -2695,7 +2962,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/CzWEU7w.png"
+                "imgpath": "https://i.imgur.com/CzWEU7w.png",
+                "in_na": true
             },
             {
                 "id": "4-0j",
@@ -2705,7 +2973,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/klbjNgV.png"
+                "imgpath": "https://i.imgur.com/klbjNgV.png",
+                "in_na": true
             },
             {
                 "id": "4-0k",
@@ -2715,7 +2984,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/PnYqRMR.png"
+                "imgpath": "https://i.imgur.com/PnYqRMR.png",
+                "in_na": true
             },
             {
                 "id": "4-0l",
@@ -2725,7 +2995,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/AClFtK4.png"
+                "imgpath": "https://i.imgur.com/AClFtK4.png",
+                "in_na": true
             },
             {
                 "id": "4-0m",
@@ -2735,7 +3006,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/PWTdU9H.png"
+                "imgpath": "https://i.imgur.com/PWTdU9H.png",
+                "in_na": true
             },
             {
                 "id": "4-0n",
@@ -2745,7 +3017,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/jbts1Lm.png"
+                "imgpath": "https://i.imgur.com/jbts1Lm.png",
+                "in_na": true
             },
             {
                 "id": "4-0o",
@@ -2755,7 +3028,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Pt4bGfD.png"
+                "imgpath": "https://i.imgur.com/Pt4bGfD.png",
+                "in_na": true
             },
             {
                 "id": "4-0p",
@@ -2765,7 +3039,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/stkGtHP.png"
+                "imgpath": "https://i.imgur.com/stkGtHP.png",
+                "in_na": true
             },
             {
                 "id": "4-0q",
@@ -2775,7 +3050,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/iFEeaSa.png"
+                "imgpath": "https://i.imgur.com/iFEeaSa.png",
+                "in_na": true
             },
             {
                 "id": "4-0r",
@@ -2785,7 +3061,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/bHZcJi6.png"
+                "imgpath": "https://i.imgur.com/bHZcJi6.png",
+                "in_na": true
             },
             {
                 "id": "4-0s",
@@ -2795,7 +3072,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/3G2LxLb.png"
+                "imgpath": "https://i.imgur.com/3G2LxLb.png",
+                "in_na": true
             },
             {
                 "id": "4-0t",
@@ -2805,7 +3083,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/uvO1amY.png"
+                "imgpath": "https://i.imgur.com/uvO1amY.png",
+                "in_na": true
             },
             {
                 "id": "4-0u",
@@ -2815,7 +3094,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Pf8lkp7.png"
+                "imgpath": "https://i.imgur.com/Pf8lkp7.png",
+                "in_na": true
             },
             {
                 "id": "4-0v",
@@ -2825,7 +3105,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/2xGPm4D.png"
+                "imgpath": "https://i.imgur.com/2xGPm4D.png",
+                "in_na": true
             },
             {
                 "id": "4-0w",
@@ -2835,7 +3116,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/sKIKJYC.png"
+                "imgpath": "https://i.imgur.com/sKIKJYC.png",
+                "in_na": true
             },
             {
                 "id": "4-0x",
@@ -2845,7 +3127,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/TmyLZQF.png"
+                "imgpath": "https://i.imgur.com/TmyLZQF.png",
+                "in_na": true
             },
             {
                 "id": "4-0y",
@@ -2855,7 +3138,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/1LICEHv.png"
+                "imgpath": "https://i.imgur.com/1LICEHv.png",
+                "in_na": true
             },
             {
                 "id": "4-0z",
@@ -2865,7 +3149,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/qXcAIv6.png"
+                "imgpath": "https://i.imgur.com/qXcAIv6.png",
+                "in_na": true
             },
             {
                 "id": "4-10",
@@ -2875,7 +3160,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/43FbLDu.png"
+                "imgpath": "https://i.imgur.com/43FbLDu.png",
+                "in_na": true
             },
             {
                 "id": "4-11",
@@ -2885,7 +3171,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/osStLLM.png"
+                "imgpath": "https://i.imgur.com/osStLLM.png",
+                "in_na": true
             },
             {
                 "id": "4-12",
@@ -2895,7 +3182,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/bLLACUJ.png"
+                "imgpath": "https://i.imgur.com/bLLACUJ.png",
+                "in_na": true
             },
             {
                 "id": "4-13",
@@ -2905,7 +3193,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/c2qP00k.png"
+                "imgpath": "https://i.imgur.com/c2qP00k.png",
+                "in_na": true
             },
             {
                 "id": "4-14",
@@ -2915,7 +3204,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/l9q7EX6.png"
+                "imgpath": "https://i.imgur.com/l9q7EX6.png",
+                "in_na": true
             },
             {
                 "id": "4-15",
@@ -2925,7 +3215,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/2j3AtdF.png"
+                "imgpath": "https://i.imgur.com/2j3AtdF.png",
+                "in_na": true
             },
             {
                 "id": "4-16",
@@ -2935,7 +3226,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/AvL1eVU.png"
+                "imgpath": "https://i.imgur.com/AvL1eVU.png",
+                "in_na": true
             },
             {
                 "id": "4-17",
@@ -2945,7 +3237,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/hahvExA.png"
+                "imgpath": "https://i.imgur.com/hahvExA.png",
+                "in_na": true
             },
             {
                 "id": "4-18",
@@ -2955,7 +3248,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/h2VOVIg.png"
+                "imgpath": "https://i.imgur.com/h2VOVIg.png",
+                "in_na": true
             },
             {
                 "id": "4-19",
@@ -2965,7 +3259,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/DQfYfFX.png"
+                "imgpath": "https://i.imgur.com/DQfYfFX.png",
+                "in_na": true
             },
             {
                 "id": "4-1A",
@@ -2975,7 +3270,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/gpLrRC5.png"
+                "imgpath": "https://i.imgur.com/gpLrRC5.png",
+                "in_na": true
             },
             {
                 "id": "4-1B",
@@ -2985,7 +3281,8 @@
                 "max_copy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/PBxja3r.png"
+                "imgpath": "https://i.imgur.com/PBxja3r.png",
+                "in_na": true
             },
             {
                 "id": "4-1C",
@@ -2995,7 +3292,8 @@
                 "max_copy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/SHQLj5l.png"
+                "imgpath": "https://i.imgur.com/SHQLj5l.png",
+                "in_na": true
             },
             {
                 "id": "4-1D",
@@ -3005,7 +3303,8 @@
                 "max_copy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/r529xoI.png"
+                "imgpath": "https://i.imgur.com/r529xoI.png",
+                "in_na": true
             },
             {
                 "id": "4-1E",
@@ -3015,7 +3314,8 @@
                 "max_copy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/IWY2LjM.png"
+                "imgpath": "https://i.imgur.com/IWY2LjM.png",
+                "in_na": true
             },
             {
                 "id": "4-1F",
@@ -3025,7 +3325,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/RacZb9v.png"
+                "imgpath": "https://i.imgur.com/RacZb9v.png",
+                "in_na": true
             },
             {
                 "id": "4-1G",
@@ -3035,7 +3336,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ibrygWd.png"
+                "imgpath": "https://i.imgur.com/ibrygWd.png",
+                "in_na": true
             },
             {
                 "id": "4-1H",
@@ -3045,7 +3347,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/7Rs3Rpq.png"
+                "imgpath": "https://i.imgur.com/7Rs3Rpq.png",
+                "in_na": true
             },
             {
                 "id": "4-1I",
@@ -3055,7 +3358,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ub2gQ6P.png"
+                "imgpath": "https://i.imgur.com/ub2gQ6P.png",
+                "in_na": true
             },
             {
                 "id": "4-1J",
@@ -3065,7 +3369,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/0LgW1uK.png"
+                "imgpath": "https://i.imgur.com/0LgW1uK.png",
+                "in_na": true
             },
             {
                 "id": "4-1K",
@@ -3075,7 +3380,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ZneeQmM.png"
+                "imgpath": "https://i.imgur.com/ZneeQmM.png",
+                "in_na": false
             },
             {
                 "id": "4-1L",
@@ -3085,7 +3391,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/BtxWwUg.png"
+                "imgpath": "https://i.imgur.com/BtxWwUg.png",
+                "in_na": true
             },
             {
                 "id": "4-1M",
@@ -3095,7 +3402,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/a2WhWDV.png"
+                "imgpath": "https://i.imgur.com/a2WhWDV.png",
+                "in_na": true
             },
             {
                 "id": "4-1N",
@@ -3105,7 +3413,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/UyCIHL3.png"
+                "imgpath": "https://i.imgur.com/UyCIHL3.png",
+                "in_na": true
             },
             {
                 "id": "4-1O",
@@ -3115,7 +3424,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/WTk3z6C.png"
+                "imgpath": "https://i.imgur.com/WTk3z6C.png",
+                "in_na": false
             },
             {
                 "id": "4-1P",
@@ -3125,7 +3435,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/3Q2dHnB.png"
+                "imgpath": "https://i.imgur.com/3Q2dHnB.png",
+                "in_na": false
             },
             {
                 "id": "4-1Q",
@@ -3135,7 +3446,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ORCqLoo.png"
+                "imgpath": "https://i.imgur.com/ORCqLoo.png",
+                "in_na": false
             },
             {
                 "id": "4-1R",
@@ -3145,7 +3457,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/9RMYzgZ.png"
+                "imgpath": "https://i.imgur.com/9RMYzgZ.png",
+                "in_na": false
             },
             {
                 "id": "4-1S",
@@ -3155,7 +3468,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/shpOQ6c.png"
+                "imgpath": "https://i.imgur.com/shpOQ6c.png",
+                "in_na": false
             },
             {
                 "id": "4-1T",
@@ -3165,7 +3479,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/DoZr4zO.png"
+                "imgpath": "https://i.imgur.com/DoZr4zO.png",
+                "in_na": false
             },
             {
                 "id": "4-1U",
@@ -3175,7 +3490,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/gFaTFSV.png"
+                "imgpath": "https://i.imgur.com/gFaTFSV.png",
+                "in_na": false
             },
             {
                 "id": "4-20",
@@ -3185,7 +3501,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/CSFUzUU.png"
+                "imgpath": "https://i.imgur.com/CSFUzUU.png",
+                "in_na": false
             },
             {
                 "id": "4-21",
@@ -3195,7 +3512,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/lP74dkz.png"
+                "imgpath": "https://i.imgur.com/lP74dkz.png",
+                "in_na": false
             },
             {
                 "id": "4-22",
@@ -3205,7 +3523,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/tKsosQ5.png"
+                "imgpath": "https://i.imgur.com/tKsosQ5.png",
+                "in_na": false
             },
             {
                 "id": "4-23",
@@ -3215,7 +3534,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/IhICg6P.png"
+                "imgpath": "https://i.imgur.com/IhICg6P.png",
+                "in_na": false
             },
             {
                 "id": "4-24",
@@ -3225,7 +3545,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/8JrB5dt.png"
+                "imgpath": "https://i.imgur.com/8JrB5dt.png",
+                "in_na": false
             },
             {
                 "id": "4-25",
@@ -3235,7 +3556,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/xp1Ykff.png"
+                "imgpath": "https://i.imgur.com/xp1Ykff.png",
+                "in_na": false
             },
             {
                 "id": "4-26",
@@ -3245,7 +3567,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/BiXkXkh.png"
+                "imgpath": "https://i.imgur.com/BiXkXkh.png",
+                "in_na": false
             },
             {
                 "id": "4-27",
@@ -3255,7 +3578,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/TE9T44b.png"
+                "imgpath": "https://i.imgur.com/TE9T44b.png",
+                "in_na": false
             },
             {
                 "id": "4-28",
@@ -3265,7 +3589,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/og9v1St.png"
+                "imgpath": "https://i.imgur.com/og9v1St.png",
+                "in_na": false
             },
             {
                 "id": "4-29",
@@ -3275,7 +3600,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/2PEPJft.png"
+                "imgpath": "https://i.imgur.com/2PEPJft.png",
+                "in_na": false
             },
             {
                 "id": "4-30",
@@ -3285,7 +3611,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/6Xmur3V.png"
+                "imgpath": "https://i.imgur.com/6Xmur3V.png",
+                "in_na": false
             },
             {
                 "id": "4-31",
@@ -3295,7 +3622,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/LRwRse6.png"
+                "imgpath": "https://i.imgur.com/LRwRse6.png",
+                "in_na": false
             },
             {
                 "id": "4-32",
@@ -3305,7 +3633,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/zSX7HuF.png"
+                "imgpath": "https://i.imgur.com/zSX7HuF.png",
+                "in_na": false
             },
             {
                 "id": "4-33",
@@ -3315,7 +3644,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/LD0SmQf.png"
+                "imgpath": "https://i.imgur.com/LD0SmQf.png",
+                "in_na": false
             }
         ]
     },
@@ -3335,7 +3665,8 @@
                 "maxcopy": 3,
                 "stype": 1,
                 "img": true,
-                "imgpath": "https://i.imgur.com/mxdbHP6.png"
+                "imgpath": "https://i.imgur.com/mxdbHP6.png",
+                "in_na": true
             },
             {
                 "id": "3-1",
@@ -3345,7 +3676,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/DapVmOB.png"
+                "imgpath": "https://i.imgur.com/DapVmOB.png",
+                "in_na": true
             },
             {
                 "id": "3-2",
@@ -3355,7 +3687,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/4rTvs50.png"
+                "imgpath": "https://i.imgur.com/4rTvs50.png",
+                "in_na": true
             },
             {
                 "id": "3-3",
@@ -3365,7 +3698,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ZiJ1dtC.png"
+                "imgpath": "https://i.imgur.com/ZiJ1dtC.png",
+                "in_na": true
             },
             {
                 "id": "3-4",
@@ -3375,7 +3709,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/7BJp1HT.png"
+                "imgpath": "https://i.imgur.com/7BJp1HT.png",
+                "in_na": true
             },
             {
                 "id": "3-5",
@@ -3385,7 +3720,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Uy3iwcA.png"
+                "imgpath": "https://i.imgur.com/Uy3iwcA.png",
+                "in_na": true
             },
             {
                 "id": "3-6",
@@ -3395,7 +3731,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/lf4lRH2.png"
+                "imgpath": "https://i.imgur.com/lf4lRH2.png",
+                "in_na": true
             },
             {
                 "id": "3-7",
@@ -3405,7 +3742,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/vkvBvDD.png"
+                "imgpath": "https://i.imgur.com/vkvBvDD.png",
+                "in_na": true
             },
             {
                 "id": "3-8",
@@ -3415,7 +3753,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/BzNaaW6.png"
+                "imgpath": "https://i.imgur.com/BzNaaW6.png",
+                "in_na": true
             },
             {
                 "id": "3-9",
@@ -3425,7 +3764,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/By8vxkg.png"
+                "imgpath": "https://i.imgur.com/By8vxkg.png",
+                "in_na": true
             },
             {
                 "id": "3-A",
@@ -3435,7 +3775,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/VhHPySK.png"
+                "imgpath": "https://i.imgur.com/VhHPySK.png",
+                "in_na": true
             },
             {
                 "id": "3-B",
@@ -3445,7 +3786,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Zesz9YG.png"
+                "imgpath": "https://i.imgur.com/Zesz9YG.png",
+                "in_na": true
             },
             {
                 "id": "3-C",
@@ -3455,7 +3797,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Clfvmiu.png"
+                "imgpath": "https://i.imgur.com/Clfvmiu.png",
+                "in_na": true
             },
             {
                 "id": "3-D",
@@ -3465,7 +3808,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/KJt5dSc.png"
+                "imgpath": "https://i.imgur.com/KJt5dSc.png",
+                "in_na": true
             },
             {
                 "id": "3-E",
@@ -3475,7 +3819,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/JrgF3Oy.png"
+                "imgpath": "https://i.imgur.com/JrgF3Oy.png",
+                "in_na": true
             },
             {
                 "id": "3-F",
@@ -3485,7 +3830,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/UYIpYrd.png"
+                "imgpath": "https://i.imgur.com/UYIpYrd.png",
+                "in_na": true
             },
             {
                 "id": "3-G",
@@ -3495,7 +3841,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/2QrhC3p.png"
+                "imgpath": "https://i.imgur.com/2QrhC3p.png",
+                "in_na": true
             },
             {
                 "id": "3-H",
@@ -3505,7 +3852,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/36xJ2d8.png"
+                "imgpath": "https://i.imgur.com/36xJ2d8.png",
+                "in_na": true
             },
             {
                 "id": "3-I",
@@ -3515,7 +3863,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/PjIEY8G.png"
+                "imgpath": "https://i.imgur.com/PjIEY8G.png",
+                "in_na": true
             },
             {
                 "id": "3-J",
@@ -3525,7 +3874,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/XLLXccS.png"
+                "imgpath": "https://i.imgur.com/XLLXccS.png",
+                "in_na": true
             },
             {
                 "id": "3-K",
@@ -3535,7 +3885,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/4tdfNGI.png"
+                "imgpath": "https://i.imgur.com/4tdfNGI.png",
+                "in_na": true
             },
             {
                 "id": "3-L",
@@ -3545,7 +3896,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/6w8wWDT.png"
+                "imgpath": "https://i.imgur.com/6w8wWDT.png",
+                "in_na": true
             },
             {
                 "id": "3-M",
@@ -3555,7 +3907,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/cwNs0p2.png"
+                "imgpath": "https://i.imgur.com/cwNs0p2.png",
+                "in_na": true
             },
             {
                 "id": "3-N",
@@ -3565,7 +3918,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/JOazosj.png"
+                "imgpath": "https://i.imgur.com/JOazosj.png",
+                "in_na": true
             },
             {
                 "id": "3-O",
@@ -3575,7 +3929,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/d6t9BPG.png"
+                "imgpath": "https://i.imgur.com/d6t9BPG.png",
+                "in_na": true
             },
             {
                 "id": "3-P",
@@ -3585,7 +3940,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/BrEm1kv.png"
+                "imgpath": "https://i.imgur.com/BrEm1kv.png",
+                "in_na": true
             },
             {
                 "id": "3-Q",
@@ -3595,7 +3951,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/NodWxv0.png"
+                "imgpath": "https://i.imgur.com/NodWxv0.png",
+                "in_na": true
             },
             {
                 "id": "3-R",
@@ -3605,7 +3962,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/0a8gMKc.png"
+                "imgpath": "https://i.imgur.com/0a8gMKc.png",
+                "in_na": true
             },
             {
                 "id": "3-S",
@@ -3615,7 +3973,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/43AC33N.png"
+                "imgpath": "https://i.imgur.com/43AC33N.png",
+                "in_na": true
             },
             {
                 "id": "3-T",
@@ -3625,7 +3984,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/pHEBThV.png"
+                "imgpath": "https://i.imgur.com/pHEBThV.png",
+                "in_na": true
             },
             {
                 "id": "3-U",
@@ -3635,7 +3995,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/n7XDDjX.png"
+                "imgpath": "https://i.imgur.com/n7XDDjX.png",
+                "in_na": true
             },
             {
                 "id": "3-V",
@@ -3645,7 +4006,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/HGnFSLP.png"
+                "imgpath": "https://i.imgur.com/HGnFSLP.png",
+                "in_na": true
             },
             {
                 "id": "3-W",
@@ -3655,7 +4017,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/WraaofQ.png"
+                "imgpath": "https://i.imgur.com/WraaofQ.png",
+                "in_na": true
             },
             {
                 "id": "3-X",
@@ -3665,7 +4028,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ZmIjly9.png"
+                "imgpath": "https://i.imgur.com/ZmIjly9.png",
+                "in_na": true
             },
             {
                 "id": "3-Y",
@@ -3675,7 +4039,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/XmjEtuv.png"
+                "imgpath": "https://i.imgur.com/XmjEtuv.png",
+                "in_na": true
             },
             {
                 "id": "3-Z",
@@ -3685,7 +4050,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/wtwYgU8.png"
+                "imgpath": "https://i.imgur.com/wtwYgU8.png",
+                "in_na": true
             },
             {
                 "id": "3-a",
@@ -3695,7 +4061,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/yIG1Eoh.png"
+                "imgpath": "https://i.imgur.com/yIG1Eoh.png",
+                "in_na": true
             },
             {
                 "id": "3-b",
@@ -3705,7 +4072,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/C1KS9kP.png"
+                "imgpath": "https://i.imgur.com/C1KS9kP.png",
+                "in_na": true
             },
             {
                 "id": "3-c",
@@ -3715,7 +4083,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/KqPHkGq.png"
+                "imgpath": "https://i.imgur.com/KqPHkGq.png",
+                "in_na": true
             },
             {
                 "id": "3-d",
@@ -3725,7 +4094,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/LJIE2Eg.png"
+                "imgpath": "https://i.imgur.com/LJIE2Eg.png",
+                "in_na": true
             },
             {
                 "id": "3-e",
@@ -3735,7 +4105,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/SzhIfdS.png"
+                "imgpath": "https://i.imgur.com/SzhIfdS.png",
+                "in_na": true
             },
             {
                 "id": "3-f",
@@ -3745,7 +4116,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/QKBUrlz.png"
+                "imgpath": "https://i.imgur.com/QKBUrlz.png",
+                "in_na": true
             },
             {
                 "id": "3-g",
@@ -3755,7 +4127,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/wFWgkLf.png"
+                "imgpath": "https://i.imgur.com/wFWgkLf.png",
+                "in_na": true
             },
             {
                 "id": "3-h",
@@ -3765,7 +4138,8 @@
                 "maxcopy": 5,
                 "stype": 2,
                 "img": true,
-                "imgpath": "https://i.imgur.com/fvpJMOJ.png"
+                "imgpath": "https://i.imgur.com/fvpJMOJ.png",
+                "in_na": true
             },
             {
                 "id": "3-i",
@@ -3775,7 +4149,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/A38JJ67.png"
+                "imgpath": "https://i.imgur.com/A38JJ67.png",
+                "in_na": true
             },
             {
                 "id": "3-j",
@@ -3785,7 +4160,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/pZI7ux8.png"
+                "imgpath": "https://i.imgur.com/pZI7ux8.png",
+                "in_na": true
             },
             {
                 "id": "3-k",
@@ -3795,7 +4171,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/stTkPNe.png"
+                "imgpath": "https://i.imgur.com/stTkPNe.png",
+                "in_na": true
             },
             {
                 "id": "3-l",
@@ -3805,7 +4182,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/46ZDZlZ.png"
+                "imgpath": "https://i.imgur.com/46ZDZlZ.png",
+                "in_na": true
             },
             {
                 "id": "3-m",
@@ -3815,7 +4193,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/D4ADvA0.png"
+                "imgpath": "https://i.imgur.com/D4ADvA0.png",
+                "in_na": false
             },
             {
                 "id": "3-n",
@@ -3825,7 +4204,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/7gpmAuc.png"
+                "imgpath": "https://i.imgur.com/7gpmAuc.png",
+                "in_na": false
             }
         ]
     },
@@ -3845,7 +4225,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Hsn5gOd.png"
+                "imgpath": "https://i.imgur.com/Hsn5gOd.png",
+                "in_na": true
             },
             {
                 "id": "2-1",
@@ -3855,7 +4236,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/CwFAXFT.png"
+                "imgpath": "https://i.imgur.com/CwFAXFT.png",
+                "in_na": true
             },
             {
                 "id": "2-2",
@@ -3865,7 +4247,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/hIkIe79.png"
+                "imgpath": "https://i.imgur.com/hIkIe79.png",
+                "in_na": true
             },
             {
                 "id": "2-3",
@@ -3875,7 +4258,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/a3TKdca.png"
+                "imgpath": "https://i.imgur.com/a3TKdca.png",
+                "in_na": true
             },
             {
                 "id": "2-4",
@@ -3885,7 +4269,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/JfTWhfN.png"
+                "imgpath": "https://i.imgur.com/JfTWhfN.png",
+                "in_na": true
             },
             {
                 "id": "2-5",
@@ -3895,7 +4280,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/w2004wy.png"
+                "imgpath": "https://i.imgur.com/w2004wy.png",
+                "in_na": true
             },
             {
                 "id": "2-6",
@@ -3905,7 +4291,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/cRTqKpW.png"
+                "imgpath": "https://i.imgur.com/cRTqKpW.png",
+                "in_na": true
             },
             {
                 "id": "2-7",
@@ -3915,7 +4302,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/IH8zT6Z.png"
+                "imgpath": "https://i.imgur.com/IH8zT6Z.png",
+                "in_na": true
             },
             {
                 "id": "2-8",
@@ -3925,7 +4313,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/BRTLSxm.png"
+                "imgpath": "https://i.imgur.com/BRTLSxm.png",
+                "in_na": true
             },
             {
                 "id": "2-9",
@@ -3935,7 +4324,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/FwTzIzP.png"
+                "imgpath": "https://i.imgur.com/FwTzIzP.png",
+                "in_na": true
             },
             {
                 "id": "2-A",
@@ -3945,7 +4335,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/e2kKgVB.png"
+                "imgpath": "https://i.imgur.com/e2kKgVB.png",
+                "in_na": true
             },
             {
                 "id": "2-B",
@@ -3955,7 +4346,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ZH7v7W2.png"
+                "imgpath": "https://i.imgur.com/ZH7v7W2.png",
+                "in_na": true
             },
             {
                 "id": "2-C",
@@ -3965,7 +4357,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/sWyAivK.png"
+                "imgpath": "https://i.imgur.com/sWyAivK.png",
+                "in_na": true
             },
             {
                 "id": "2-D",
@@ -3975,7 +4368,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/u1EXNsx.png"
+                "imgpath": "https://i.imgur.com/u1EXNsx.png",
+                "in_na": true
             },
             {
                 "id": "2-E",
@@ -3985,7 +4379,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/9JsVxzr.png"
+                "imgpath": "https://i.imgur.com/9JsVxzr.png",
+                "in_na": true
             }
         ]
     },
@@ -4005,7 +4400,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/Ft2tyhW.png"
+                "imgpath": "https://i.imgur.com/Ft2tyhW.png",
+                "in_na": true
             },
             {
                 "id": "1-1",
@@ -4015,7 +4411,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/OMtT4g7.png"
+                "imgpath": "https://i.imgur.com/OMtT4g7.png",
+                "in_na": true
             },
             {
                 "id": "1-2",
@@ -4025,7 +4422,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/c0qHuE6.png"
+                "imgpath": "https://i.imgur.com/c0qHuE6.png",
+                "in_na": true
             },
             {
                 "id": "1-3",
@@ -4035,7 +4433,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/pMtjthO.png"
+                "imgpath": "https://i.imgur.com/pMtjthO.png",
+                "in_na": true
             },
             {
                 "id": "1-4",
@@ -4045,7 +4444,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/5cAFgvT.png"
+                "imgpath": "https://i.imgur.com/5cAFgvT.png",
+                "in_na": true
             },
             {
                 "id": "1-5",
@@ -4055,7 +4455,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/rGgVyVh.png"
+                "imgpath": "https://i.imgur.com/rGgVyVh.png",
+                "in_na": true
             },
             {
                 "id": "1-6",
@@ -4065,7 +4466,8 @@
                 "maxcopy": 5,
                 "stype": 4,
                 "img": true,
-                "imgpath": "https://i.imgur.com/tKM9teU.png"
+                "imgpath": "https://i.imgur.com/tKM9teU.png",
+                "in_na": true
             },
             {
                 "id": "1-7",
@@ -4075,7 +4477,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ynppaIO.png"
+                "imgpath": "https://i.imgur.com/ynppaIO.png",
+                "in_na": true
             },
             {
                 "id": "1-8",
@@ -4085,7 +4488,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/KiJ55kZ.png"
+                "imgpath": "https://i.imgur.com/KiJ55kZ.png",
+                "in_na": true
             },
             {
                 "id": "1-9",
@@ -4095,7 +4499,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/AjouoOf.png"
+                "imgpath": "https://i.imgur.com/AjouoOf.png",
+                "in_na": true
             },
             {
                 "id": "1-A",
@@ -4105,7 +4510,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/aZb2D0u.png"
+                "imgpath": "https://i.imgur.com/aZb2D0u.png",
+                "in_na": true
             },
             {
                 "id": "1-B",
@@ -4115,7 +4521,8 @@
                 "maxcopy": 5,
                 "stype": 3,
                 "img": true,
-                "imgpath": "https://i.imgur.com/ii4yFGR.png"
+                "imgpath": "https://i.imgur.com/ii4yFGR.png",
+                "in_na": true
             }
         ]
     },
@@ -4135,7 +4542,8 @@
                 "maxcopy": 5,
                 "stype": 0,
                 "img": true,
-                "imgpath": "https://i.imgur.com/UkyfnFa.png"
+                "imgpath": "https://i.imgur.com/UkyfnFa.png",
+                "in_na": true
             }
         ]
     }
